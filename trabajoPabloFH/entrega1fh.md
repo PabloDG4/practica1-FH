@@ -1,9 +1,6 @@
 # Práctica de Particionado de Discos en Ubuntu
+ Pablo Delgado Gamallo
 
-**Autor:** [Tu Nombre]  
-**Fecha:** [Fecha de Entrega]  
-**Descripción:**  
-Este documento describe paso a paso la creación y configuración de particiones en un sistema Ubuntu utilizando `fdisk` y `parted`.
 
 ---
 
